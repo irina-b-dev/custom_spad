@@ -5,6 +5,17 @@
 
 ## BOM
 
+Minimal working
+
+![alt text](./images/bom_preview.png)
+
+
+[bom_interactive](./bom/ibom.html)
+
+
+## BOM in test
+
+
 ### APD
 | Name | Link                                                 | Price   | Qty | Description            | Code             | Check |
 | ---- | ---------------------------------------------------- | ------- | --- | ---------------------- | ---------------- | ----- |
